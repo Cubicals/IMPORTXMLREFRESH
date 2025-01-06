@@ -1,6 +1,6 @@
 In order to import this code go to Extensions-apps script and paste it in Code.gs 
 
-you will need to change "your spreadsheet id" you can find your id in the url "https://docs.google.com/spreadsheets/d/1DcYzDRL0ow6v5n_LZV5TVLcZywkuuGYs87aUbM6-KYw/edit?gid=1973484212#gid=1973484212"
+you will need to change "your spreadsheet id" you can find your id in the url "docs.gogle.com/spreadsheets/d/1DcYzDRL0ow6v5n_LZV5TVLcZywkuuGYs87aUbM6-KYw/edit?gid=1973484212#gid=1973484212"
 example my id would be "1DcYzDRL0ow6v5n_LZV5TVLcZywkuuGYs87aUbM6-KYw"                                                
 
  As this gets sheets by name make sure you put the right sheet in because thats the one it will update. "var sheet = ss.getSheetByName("SHEET YOU WANT TO UPDATE");"
